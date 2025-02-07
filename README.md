@@ -7,7 +7,7 @@ If on a **UNIX** system, use the file below.
 
 1. Get the binary to install the files here: [https://github.com/benevolent0377/PyCaliCore/releases/download/UNIX-INSTALLER-0.0.1/install.sh]
 
-2.  Place the binary and run it in the parent folder of the program.
+2.  Place the binary and run it in the parent folder of the program
 
 
         ./install.sh
