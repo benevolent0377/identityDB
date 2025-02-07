@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef48e695-62f7-4d02-94f5-4ede61cca04a" name="Changes" comment="made changes">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="ef48e695-62f7-4d02-94f5-4ede61cca04a" name="Changes" comment="updated the readme.md file with a new header" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,11 +77,20 @@
       <option name="project" value="LOCAL" />
       <updated>1738894092614</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated the readme.md file with a new header">
+      <option name="closed" value="true" />
+      <created>1738894268905</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738894268905</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="made changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="made changes" />
+    <MESSAGE value="updated the readme.md file with a new header" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the readme.md file with a new header" />
   </component>
 </project>
