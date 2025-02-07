@@ -36,6 +36,9 @@ to make the folder for the core files
 
 ****
 
+Running the Program
+=====
+
 To run the program once properly installed, run
     
     python3 iDB.py
